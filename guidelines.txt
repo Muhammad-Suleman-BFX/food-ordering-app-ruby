@@ -1,0 +1,20 @@
+Week 1 Task — Ruby Practice
+ 
+Create a simple Food Ordering App using pure Ruby. Use a single Ruby file and one class only—no Rails, database, external gems, or API integration is required.
+ 
+The file should run directly using: ruby food_ordering_app.rb
+ 
+The terminal-based application should include:
+1. Display a predefined menu of food items and prices.
+2. Add selected items to a cart.
+3. Update item quantities or remove items from the cart.
+4. Display the cart with item names, quantities, and totals.
+5. Calculate the final order amount.
+6. Place the order and display an order summary.
+7. Update and display the order status: Placed, Preparing, Out for Delivery, or Delivered.
+8. Please use separate methods within the class for each functionality and keep the code clean and readable. 
+ 
+Share the Ruby file and a brief explanation once completed.
+ 
+This task is only for practice and to strengthen your understanding of Ruby concepts before we begin working on a real Ruby on Rails application.
+ 
